@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**yampt-shin/yampt-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adu-Lim/Adu-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&colot=gradient&height=120&animation=fadeIn&section=footer&reversal=true&text=yampt-shin&fontSize=60&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&colot=gradient&height=120&animation=fadeIn&section=footer&reversal=true&text=Adu-Lim&fontSize=60&fontAlign=70)
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
